@@ -5,7 +5,7 @@ import { PhoneBookForm } from "components/PhoneBookForm/PhoneBookForm";
 import { Section } from "components/Section/Section.styled";
 import { Box } from 'components/Box/Box.styled';
 import { FhoneBookTitle } from "components/Title/Title";
-import { FhonesList } from "components/FhonesList/FhonesList";
+import { FhonesList } from "components/PhonesList/PhonesList";
 import { Filter } from 'components/Filter/Filter';
 
 

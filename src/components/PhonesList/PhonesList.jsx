@@ -1,4 +1,4 @@
-import { List } from "./FhonesList.styled";
+import { List } from "./PhonesList.styled";
 import { PropTypes } from "prop-types";
 import { Item } from "./Item/item.styled"; 
 import { ContactBtn } from "components/Btn/ContactBtn.styled";
